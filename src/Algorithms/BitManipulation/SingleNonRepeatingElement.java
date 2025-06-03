@@ -1,4 +1,5 @@
 package Algorithms.BitManipulation;
 
-public class SingleNonRepeatingElement {
+public class SingleNonRepeatingElement
+{
 }
